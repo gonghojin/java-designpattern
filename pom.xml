@@ -12,6 +12,10 @@
     <modules>
         <module>abstract-factory</module>
         <module>builder</module>
+        <module>bridge</module>
+        <module>prototype</module>
+        <module>adapter</module>
+        <module>singleton</module>
     </modules>
 
     <build>
