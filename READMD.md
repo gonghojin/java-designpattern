@@ -6,3 +6,5 @@
 4. singleton : https://github.com/iluwatar/java-design-patterns/tree/master/singleton
 5. adapter : https://github.com/iluwatar/java-design-patterns/tree/master/adapter
 6. bridge : https://github.com/iluwatar/java-design-patterns/tree/master/bridge
+7. composite : https://github.com/iluwatar/java-design-patterns/tree/master/composite
+8. decorator : https://github.com/iluwatar/java-design-patterns/tree/master/decorator
