@@ -16,6 +16,7 @@
 9. proxy : https://github.com/iluwatar/java-design-patterns/tree/master/proxy (하)
 
 ### 행동 관련 패턴 (Behavioral Pattern) : 클래스와 객체들이 상호작용하는 방법 및 역할을 분담하는 방법과 관련된 패턴
+1. https://github.com/gonghojin/java-design-patterns/tree/master/chain  
     
 
 
